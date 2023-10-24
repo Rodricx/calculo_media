@@ -1,0 +1,16 @@
+.resultado{
+    display: block;
+    width: 40%;
+    height: 20%;
+    background-color: rgb(245, 245, 245);
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5%;
+    line-height: 30px;
+}
+
+span {
+    font-weight: 700;
+    color: rgb(65, 212, 65);
+    font-size: 18pt;
+}
