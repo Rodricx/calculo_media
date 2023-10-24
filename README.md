@@ -5,7 +5,7 @@ O sistema de de gerenciamento de médias foi desenvolvido puramente em PHP com a
 ### Executando a aplicação
 Abra o terminal do windows e digite o seguinte comando:
 php -S localhost:9000
-![Executando(/assets/img/image.png "Imagem de execução")]
+[Executando](/assets/img/image.png "Imagem de execução")
 
 
 ### Arquivo .txt
